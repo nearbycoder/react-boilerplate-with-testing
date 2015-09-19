@@ -1,4 +1,4 @@
-# React ES6 Webpack Karma Boilerplate
+# React Boilerplate with testing
 
 Boilerplate for kick starting a project with the following technologies:
 * [React](https://github.com/facebook/react)
@@ -9,8 +9,6 @@ Boilerplate for kick starting a project with the following technologies:
 * [Karma](http://karma-runner.github.io/0.13/index.html) for running unit tests.
 
 The various webpack options used have been explained in detailed as comments in the config file. Should help with understanding the nitty-gritty :)
-
-Based on [react-es6-webpack-boilerplate](https://github.com/vasanthk/react-es6-webpack-boilerplate).
 
 ### Usage
 
